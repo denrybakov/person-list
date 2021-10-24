@@ -1,0 +1,19 @@
+@import '../../var.scss';
+
+.person-list {
+  // overflow: scroll;
+  // height: 40vh;
+  padding: 0;
+  width: 100%;
+  padding-bottom: 150px;
+  &__zero {
+    display: block;
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.emodji {
+  font-size: 30px;
+  font-weight: 200;
+}

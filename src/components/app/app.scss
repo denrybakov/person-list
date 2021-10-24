@@ -1,0 +1,39 @@
+@import '../../var.scss';
+
+*, *:after, *:before {
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  font-family: 'IBM Plex Sans', sans-serif;
+  font-weight: 400;
+  background-color: $dark-bg;
+  color: $blue-text;
+  height: 100vh;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.app {
+  h1 {
+    padding-top: 200px;
+  }
+  &__title {
+    font-size: 26px;
+    text-align: center;
+  }
+}
