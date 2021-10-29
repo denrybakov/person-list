@@ -20,7 +20,7 @@ class Header extends Component {
           <div className="header__logo">
             <img src="img/logo.png" alt="Логотип приложения" width="300" />
             <p className="header__logo-text">
-              Таблица учета зарплаты сотрудников
+              Таблица сотрудников
             </p>
           </div>
           <div className="header__filter">
