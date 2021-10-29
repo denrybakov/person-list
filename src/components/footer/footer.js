@@ -59,7 +59,7 @@ class Footer extends Component {
               name='fio'
             />
             <input
-              type="text"
+              type="number"
               className="footer__input footer__input-money"
               placeholder="Введите сумму..."
               value={this.state.money}
