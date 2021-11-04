@@ -24,12 +24,10 @@ class Header extends Component {
             </p>
           </div>
           <div className="header__filter">
-
             <HeaderSearch
               onUpdateSearch={onUpdateSearch}
               onHeaderFilter={onHeaderFilter}
             />
-
             <HeaderFilter
               filterValue={filterValue}
               onHeaderFilter={onHeaderFilter}
