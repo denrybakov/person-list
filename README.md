@@ -2,7 +2,8 @@
 
 You can see it here [Herokuapp.com](https://person-table.herokuapp.com/)
 <div align='center'>
-  <img src='http://rybakovcorp.ru/gif/ReactVideo1.gif' alt='React Table' >
+  <img src='http://rybakovcorp.ru/gif/ReactVideo1.gif' alt='React Table'>
+
 </div>
 
 
